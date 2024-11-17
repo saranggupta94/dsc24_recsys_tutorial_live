@@ -1,5 +1,3 @@
-I'll help you create a README.md file for this MovieLens recommender system tutorial. Based on the code snippets provided, here's a comprehensive readme:
-
 # Building a MovieLens Recommender System Tutorial
 
 ## Overview
@@ -8,15 +6,14 @@ This tutorial walks through building different types of recommender systems usin
 
 ## Tutorial Structure
 
-The tutorial is broken down into 7 chapters:
+The tutorial is broken down into 6 chapters:
 
 1. Loading the data and exploratory data analysis
-2. Data pre-processing and exploratory data analysis  
-3. (Heuristics) Popularity-based recommendations
-4. (Machine Learning) Content-based filtering
-5. (Machine Learning) Collaborative Filtering
+2. (Heuristics) Popularity-based recommendations
+3. (Machine Learning) Content-based filtering
+4. (Machine Learning) Collaborative Filtering
+5. Evaluation Metrics for Recommender Systems
 6. (Deep Learning) Two-tower Neural Networks
-7. (LLMs) Using large language models
 
 ## Dataset Description
 
