@@ -6,8 +6,6 @@ I'll help you create a README.md file for this MovieLens recommender system tuto
 
 This tutorial walks through building different types of recommender systems using the MovieLens dataset. The MovieLens dataset contains 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
 
-<img src="img/content_flowchart.png" width="200"/>
-
 ## Tutorial Structure
 
 The tutorial is broken down into 7 chapters:
