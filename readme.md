@@ -15,6 +15,11 @@ The tutorial is broken down into 6 chapters:
 5. Evaluation Metrics for Recommender Systems
 6. (Deep Learning) Two-tower Neural Networks
 
+In this repo, you'll find two notebook types:
+
+Ones which have `tut` in the filename: fill-in-the-blank notebook (use this one to follow along during the live tutorial)
+Without `tut` in the filename:  the original notebook with solutions (use this one to follow along during the live tutorial)
+
 ## Dataset Description
 
 The MovieLens dataset includes:
